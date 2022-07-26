@@ -1,0 +1,13 @@
+.Modal {
+  position: absolute;
+  top: 20%;
+  left: calc(50% - 300px);
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+  color: rgb(32, 32, 32);
+  cursor: pointer;
+  z-index: 2;
+}
